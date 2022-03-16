@@ -1,4 +1,4 @@
-package introduction.padrao.pi6.ex1;
+package introduction.padrao.pi6;
 
 import java.util.List;
 

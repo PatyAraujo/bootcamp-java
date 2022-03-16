@@ -1,6 +1,5 @@
-package introduction.padrao.pi6.ex1;
+package introduction.padrao.pi6;
 
-import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
